@@ -1,0 +1,6 @@
+{
+  "name": "InsightAI",
+  "description": "AI-powered Resume Analyzer with RAG. Features resume upload & parsing, AI question answering, ATS score benchmarking, dynamic dashboard, and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
